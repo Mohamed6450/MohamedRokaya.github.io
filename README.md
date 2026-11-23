@@ -1,7 +1,3 @@
-# MohamedRokaya.github.io
-Surgery-2 Q-bank
-[Uploading Surgery II (NMD4202) Q-Bank V3.html…]()
-<!DOCTYPE html>
 <html lang="en" data-theme="dark"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
